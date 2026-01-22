@@ -1,0 +1,21 @@
+{
+	"siteId": "c34396c6-ab67-49f1-a865-663457bd40a4",
+	"geolocation": {
+		"data": {
+			"city": "Toulouse",
+			"country": {
+				"code": "FR",
+				"name": "France"
+			},
+			"subdivision": {
+				"code": "OCC",
+				"name": "Occitanie"
+			},
+			"timezone": "Europe/Paris",
+			"latitude": 43.6046,
+			"longitude": 1.4451,
+			"postalCode": "31000"
+		},
+		"timestamp": 1768245629384
+	}
+}
